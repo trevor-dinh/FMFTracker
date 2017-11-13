@@ -10,3 +10,4 @@ If you are running this on cmd via Windows, please make sure that you are using 
 
 There may be a better method for retrieving posts in real time; this script will list 100 new posts first when live search is turned on. 
 
+To configure your own praw.ini file, see this link: http://praw.readthedocs.io/en/latest/getting_started/quick_start.html
