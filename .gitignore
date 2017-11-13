@@ -1,1 +1,2 @@
+#praw.ini will contain the client_id and secret associated with this file. It's best to not share it as per praw's rule of thumb.
 praw.ini
